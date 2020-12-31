@@ -289,8 +289,8 @@
             "Discord":"336663714801385472",
             "GitHub":null,
             "Twitch":"that_one_narwhal",
-            "Twitter":null,
-            "YouTube":null
+            "Twitter":"One_narwhal",
+            "YouTube":"UC09siDS15qQB1870QvQGf7A"
          },
          {
             "Name":"Qwasyx",
@@ -348,6 +348,15 @@
          }
       ],
       "QAT":[
+		{
+            "Name":"astrella",
+            "ProfilePicture":"astrella.png",
+            "Discord":"184355369189900290",
+            "GitHub":null,
+            "Twitch":"astrella_",
+            "Twitter":null,
+            "YouTube":null
+         },
          {
             "Name":"Checkthepan",
             "ProfilePicture":"checkthepan.gif",
