@@ -2,191 +2,236 @@
    "TeamMembers":{
       "Backend":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Name":"Umbranox",
+            "ProfilePicture":"umbra.png",
+            "Discord":"370418020448862208",
+            "GitHub":"Umbranoxio",
+            "Twitch":"umbranoxius",
+            "Twitter":"Umbranoxus",
+            "YouTube":"UCdv8M053mWGyN7PFRO_6Ctw"
          }
       ],
       "Frontend":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
+            "Name":"Umbranox",
+            "ProfilePicture":"umbra.png",
+            "Discord":"370418020448862208",
+            "GitHub":"Umbranoxio",
+            "Twitch":"umbranoxius",
+            "Twitter":"Umbranoxus",
+            "YouTube":"UCdv8M053mWGyN7PFRO_6Ctw"
+         },
+         {
+            "Name":"lolPants",
+            "ProfilePicture":"lolpants.png",
+            "Discord":"66184467269558272",
+            "GitHub":"lolPants",
             "Twitch":"",
-            "Twitter":"",
+            "Twitter":"JackBaron__",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
+            "Name":"Assistant",
+            "ProfilePicture":"assistant.png",
+            "Discord":"314941664341000193",
+            "GitHub":"Assistant",
             "Twitch":"",
-            "Twitter":"",
+            "Twitter":"AssistantMoe",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Name":"williums",
+            "ProfilePicture":"williums.png",
+            "Discord":"188208364759678979",
+            "GitHub":"williums",
+            "Twitch":"williums",
+            "Twitter":"williuums",
             "YouTube":""
          }
       ],
       "Mod":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Name":"Umbranox",
+            "ProfilePicture":"umbra.png",
+            "Discord":"370418020448862208",
+            "GitHub":"Umbranoxio",
+            "Twitch":"umbranoxius",
+            "Twitter":"Umbranoxus",
+            "YouTube":"UCdv8M053mWGyN7PFRO_6Ctw"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Name":"Auros",
+            "ProfilePicture":"auros.gif",
+            "Discord":"218571218545016832",
+            "GitHub":"Auros",
+            "Twitch":"AurosVR",
+            "Twitter":"AurosVR",
+            "YouTube":"UCmp351rR-rtljFBNkZZQrcg"
          }
       ],
       "PPv3":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
+            "Name":"Umbranox",
+            "ProfilePicture":"umbra.png",
+            "Discord":"370418020448862208",
+            "GitHub":"Umbranoxio",
+            "Twitch":"umbranoxius",
+            "Twitter":"Umbranoxus",
+            "YouTube":"UCdv8M053mWGyN7PFRO_6Ctw"
+         },
+         {
+            "Name":"Sc2ad",
+            "ProfilePicture":"sc2ad.png",
+            "Discord":"134482734771994624",
+            "GitHub":"sc2ad",
+            "Twitch":"sc2ad",
             "Twitter":"",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
+            "Name":"Rabbit",
+            "ProfilePicture":"rabbit.png",
+            "Discord":"98175697805144064",
+            "GitHub":"PlusOneRabbit",
+            "Twitch":"plusonerabbit",
+            "Twitter":"plusonerabbit",
+            "YouTube":"UCoZggh_BBds2ctMCpzA2jeg"
+         },
+         {
+            "Name":"Qwasyx",
+            "ProfilePicture":"qwasyx.png",
+            "Discord":"267411994821394432",
+            "GitHub":"Qwasyx",
+            "Twitch":"qwasyx3000",
             "Twitter":"",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Checkthepan",
+            "ProfilePicture":"checkthepan.gif",
+            "Discord":"184355369189900290",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"checkthepan",
+            "Twitter":"checkthepan",
             "YouTube":""
          }
       ],
       "Admin":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Name":"Umbranox",
+            "ProfilePicture":"umbra.png",
+            "Discord":"370418020448862208",
+            "GitHub":"Umbranoxio",
+            "Twitch":"umbranoxius",
+            "Twitter":"Umbranoxus",
+            "YouTube":"UCdv8M053mWGyN7PFRO_6Ctw"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
+            "Name":"AFriendlyPug",
+            "ProfilePicture":"afriendlypug.png",
             "Discord":"",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Twitch":"afriendlypug",
+            "Twitter":"AFriendlyPug",
+            "YouTube":"UCRoJy_hQoDIJAsRQZLxYeXA"
          }
       ],
       "NAT":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"altrewin",
+            "ProfilePicture":"altrewin.png",
+            "Discord":"448891911609253904",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"altrewin",
+            "Twitter":"altrewin",
+            "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
+         },
+         {
+            "Name":"Amanatsu",
+            "ProfilePicture":"amanatsu.png",
+            "Discord":"145838716877930496",
+            "GitHub":"",
+            "Twitch":"amanatsu",
+            "Twitter":"Amanyatsu",
+            "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
+         },
+         {
+            "Name":"cheesydream",
+            "ProfilePicture":"cheesydream.png",
+            "Discord":"129854102606708737",
+            "GitHub":"",
+            "Twitch":"cheesydream_",
+            "Twitter":"Cheeseydream",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Uninstaller",
+            "ProfilePicture":"uninstaller.png",
+            "Discord":"84840552935194624",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"uninstaller_",
+            "Twitter":"Uninstaller3",
             "YouTube":""
          }
       ],
       "Ranking Team":[
          {
-            "Name":"",
-            "ProfilePicture":"",
+            "Name":"Aithke",
+            "ProfilePicture":"aithke.png",
+            "Discord":"261635966341480470",
+            "GitHub":"",
+            "Twitch":"aithke",
+            "Twitter":"Aithke15_04",
+            "YouTube":""
+         },
+         {
+            "Name":"altrewin",
+            "ProfilePicture":"altrewin.png",
+            "Discord":"448891911609253904",
+            "GitHub":"",
+            "Twitch":"altrewin",
+            "Twitter":"altrewin",
+            "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
+         },
+         {
+            "Name":"Amanatsu",
+            "ProfilePicture":"amanatsu.png",
+            "Discord":"145838716877930496",
+            "GitHub":"",
+            "Twitch":"amanatsu",
+            "Twitter":"Amanyatsu",
+            "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
+         },
+         {
+            "Name":"cheesydream",
+            "ProfilePicture":"cheesydream.png",
+            "Discord":"129854102606708737",
+            "GitHub":"",
+            "Twitch":"cheesydream_",
+            "Twitter":"Cheeseydream",
+            "YouTube":""
+         },
+         {
+            "Name":"Uninstaller",
+            "ProfilePicture":"uninstaller.png",
+            "Discord":"84840552935194624",
+            "GitHub":"",
+            "Twitch":"uninstaller_",
+            "Twitter":"Uninstaller3",
+            "YouTube":""
+         },
+         {
+            "Name":"Checkthepan",
+            "ProfilePicture":"checkthepan.gif",
+            "Discord":"184355369189900290",
+            "GitHub":"",
+            "Twitch":"checkthepan",
+            "Twitter":"checkthepan",
+            "YouTube":""
+         },
+         {
+            "Name":"Complex Frequency",
+            "ProfilePicture":"complexfrequency.png",
             "Discord":"",
             "GitHub":"",
             "Twitch":"",
@@ -194,394 +239,295 @@
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Fnyt",
+            "ProfilePicture":"fnyt.png",
+            "Discord":"184540171859918848",
             "GitHub":"",
-            "Twitch":"",
+            "Twitch":"fnyt",
             "Twitter":"",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Foxy Boi",
+            "ProfilePicture":"foxyboi.png",
+            "Discord":"336079866925547520",
             "GitHub":"",
-            "Twitch":"",
+            "Twitch":"zefoxyboi",
+            "Twitter":"FoxyyBoii",
+            "YouTube":"UCu0WMOOmT8emyUu5-Nv-KeQ"
+         },
+         {
+            "Name":"CoolingCloset",
+            "ProfilePicture":"coolingcloset.png",
+            "Discord":"181291351315316736",
+            "GitHub":"",
+            "Twitch":"coolingcloset",
+            "Twitter":"levi_tames",
+            "YouTube":"UC--Ppt9agjkHI5XkqV76wjg"
+         },
+         {
+            "Name":"Hexagonial",
+            "ProfilePicture":"hexagonial.png",
+            "Discord":"221442943045599232",
+            "GitHub":"",
+            "Twitch":"hexxygonial",
+            "Twitter":"Hexxygonial",
+            "YouTube":""
+         },
+         {
+            "Name":"muffn",
+            "ProfilePicture":"muffn.png",
+            "Discord":"219099186505711616",
+            "GitHub":"",
+            "Twitch":"nomuffn",
+            "Twitter":"nomuffn",
+            "YouTube":""
+         },
+         {
+            "Name":"Narwall",
+            "ProfilePicture":"narwall.png",
+            "Discord":"336663714801385472",
+            "GitHub":"",
+            "Twitch":"that_one_narwhal",
             "Twitter":"",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
+            "Name":"Qwasyx",
+            "ProfilePicture":"qwasyx.png",
+            "Discord":"267411994821394432",
+            "GitHub":"Qwasyx",
+            "Twitch":"qwasyx3000",
             "Twitter":"",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"shrado",
+            "ProfilePicture":"shrado.png",
+            "Discord":"176831918166376449",
             "GitHub":"",
-            "Twitch":"",
+            "Twitch":"shrado",
+            "Twitter":"shrado1",
+            "YouTube":"UCJteEKhPaaCVBe08q3f368A"
+         },
+         {
+            "Name":"Skeelie",
+            "ProfilePicture":"skeelie.png",
+            "Discord":"119467937928052748",
+            "GitHub":"",
+            "Twitch":"skeelie",
             "Twitter":"",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Simply Marvellous",
+            "ProfilePicture":"simplymarvellous.png",
+            "Discord":"189618441429319680",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Twitch":"marvellouslysimple",
+            "Twitter":"SimplyMarvAU",
+            "YouTube":"UCOGj_tSBPcucFHExb73XV8Q"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Kivel Evan",
+            "ProfilePicture":"kival evan.png",
+            "Discord":"235716592896311296",
             "GitHub":"",
-            "Twitch":"",
+            "Twitch":"kivalevan",
             "Twitter":"",
-            "YouTube":""
+            "YouTube":"UC5pOhteTPou4iA8bNaEx3IA"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Vilanya",
+            "ProfilePicture":"vilanya.png",
+            "Discord":"348917611150704641",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"vilawess",
+            "Twitter":"Vilawes",
             "YouTube":""
          }
       ],
       "QAT":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Checkthepan",
+            "ProfilePicture":"checkthepan.gif",
+            "Discord":"184355369189900290",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"checkthepan",
+            "Twitter":"checkthepan",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"oddloop",
+            "ProfilePicture":"oddloop.png",
+            "Discord":"173241614192476161",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"notoddloop",
+            "Twitter":"oddloop_",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Aithke",
+            "ProfilePicture":"aithke.png",
+            "Discord":"261635966341480470",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"aithke",
+            "Twitter":"Aithke15_04",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"altrewin",
+            "ProfilePicture":"altrewin.png",
+            "Discord":"448891911609253904",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"altrewin",
+            "Twitter":"altrewin",
+            "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
+         },
+         {
+            "Name":"Atamik",
+            "ProfilePicture":"atamik",
+            "Discord":"140773812886044672",
+            "GitHub":"",
+            "Twitch":"atamik_",
+            "Twitter":"AtamikAU",
+            "YouTube":"UCz3rxqzb7VoDU_HkzJlxzlA"
+         },
+         {
+            "Name":"Bantalope",
+            "ProfilePicture":"bantalope.png",
+            "Discord":"260502929604214784",
+            "GitHub":"",
+            "Twitch":"bantaloop",
+            "Twitter":"BantalopeIThink",
+            "YouTube":"UCOWlwZ8AW6Z2qCy7y_8PPVg"
+         },
+         {
+            "Name":"cerret",
+            "ProfilePicture":"",
+            "Discord":"241387804146270209",
+            "GitHub":"",
+            "Twitch":"cerret07",
+            "Twitter":"cerret4",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"CoolingCloset",
+            "ProfilePicture":"coolingcloset.png",
+            "Discord":"181291351315316736",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"coolingcloset",
+            "Twitter":"levi_tames",
+            "YouTube":"UC--Ppt9agjkHI5XkqV76wjg"
+         },
+         {
+            "Name":"Incanium",
+            "ProfilePicture":"incanium.png",
+            "Discord":"158560971101569024",
+            "GitHub":"",
+            "Twitch":"incanium",
+            "Twitter":"Incanium",
+            "YouTube":"UCRv4twRsG_CrZ5PzQzjinQg"
+         },
+         {
+            "Name":"Jaack",
+            "ProfilePicture":"jaack.png",
+            "Discord":"205063747914432512",
+            "GitHub":"",
+            "Twitch":"jaack_bs",
+            "Twitter":"Jaack_VR",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Koalafied Operator",
+            "ProfilePicture":"koalafied operator.gif",
+            "Discord":"183399145665593344",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"koalafiedoperator",
+            "Twitter":"KoalafiedOp",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"LemoNade",
+            "ProfilePicture":"lemonade.png",
+            "Discord":"275218075916304386",
             "GitHub":"",
-            "Twitch":"",
+            "Twitch":"lemo_nade__",
             "Twitter":"",
-            "YouTube":""
+            "YouTube":"R0taGMi07LZFnAt0MLQ"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Mawntee",
+            "ProfilePicture":"mawntee.png",
+            "Discord":"113073785522941952",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Twitch":"mawntee",
+            "Twitter":"mawntee",
+            "YouTube":"UCMsPHZpcTSsSl_mLNQELVcw"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"miitchel",
+            "ProfilePicture":"miitchel.png",
+            "Discord":"163990736734257154",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Twitch":"miitchel",
+            "Twitter":"miitchelVR",
+            "YouTube":"UCptFLFwMt8h3nRom_5M9blA"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Rocker",
+            "ProfilePicture":"rocker.png",
+            "Discord":"132449590527000576",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Twitch":"rocker1904",
+            "Twitter":"rocker1904",
+            "YouTube":"UCoDuGRzPzf2-EbtaaKhRoLw"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Rogdude",
+            "ProfilePicture":"rogdude.png",
+            "Discord":"188959578317258762",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Twitch":"rogdudevr",
+            "Twitter":"Rogdude1",
+            "YouTube":"UCS9wwACx_SlGnKqSe9C_NYQ"
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Tootie",
+            "ProfilePicture":"tootie.png",
+            "Discord":"241404507026751489",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"tootie",
+            "Twitter":"TootieMcGootie",
             "YouTube":""
          }
       ],
       "CAT":[
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Amanatsu",
+            "ProfilePicture":"amanatsu.png",
+            "Discord":"145838716877930496",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"amanatsu",
+            "Twitter":"Amanyatsu",
+            "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
+         },
+         {
+            "Name":"Uninstaller",
+            "ProfilePicture":"uninstaller.png",
+            "Discord":"84840552935194624",
+            "GitHub":"",
+            "Twitch":"uninstaller_",
+            "Twitter":"Uninstaller3",
             "YouTube":""
          },
          {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
+            "Name":"Fern",
+            "ProfilePicture":"fern.png",
+            "Discord":"161202739949338625",
             "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
-         },
-         {
-            "Name":"",
-            "ProfilePicture":"",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
+            "Twitch":"notfernyx",
+            "Twitter":"FernyxTweets",
             "YouTube":""
          }
       ]
