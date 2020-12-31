@@ -3,7 +3,7 @@
       "Backend":[
          {
             "Name":"Umbranox",
-            "ProfilePicture":"umbra.png",
+            "ProfilePicture":"umbra.jpg",
             "Discord":"370418020448862208",
             "GitHub":"Umbranoxio",
             "Twitch":"umbranoxius",
@@ -14,7 +14,7 @@
       "Frontend":[
          {
             "Name":"Umbranox",
-            "ProfilePicture":"umbra.png",
+            "ProfilePicture":"umbra.jpg",
             "Discord":"370418020448862208",
             "GitHub":"Umbranoxio",
             "Twitch":"umbranoxius",
@@ -52,7 +52,7 @@
       "Mod":[
          {
             "Name":"Umbranox",
-            "ProfilePicture":"umbra.png",
+            "ProfilePicture":"umbra.jpg",
             "Discord":"370418020448862208",
             "GitHub":"Umbranoxio",
             "Twitch":"umbranoxius",
@@ -72,7 +72,7 @@
       "PPv3":[
          {
             "Name":"Umbranox",
-            "ProfilePicture":"umbra.png",
+            "ProfilePicture":"umbra.jpg",
             "Discord":"370418020448862208",
             "GitHub":"Umbranoxio",
             "Twitch":"umbranoxius",
@@ -119,7 +119,7 @@
       "Admin":[
          {
             "Name":"Umbranox",
-            "ProfilePicture":"umbra.png",
+            "ProfilePicture":"umbra.jpg",
             "Discord":"370418020448862208",
             "GitHub":"Umbranoxio",
             "Twitch":"umbranoxius",
@@ -177,7 +177,7 @@
       "RT":[
          {
             "Name":"Aithke",
-            "ProfilePicture":"aithke.png",
+            "ProfilePicture":"aithke.gif",
             "Discord":"261635966341480470",
             "GitHub":"",
             "Twitch":"aithke",
@@ -285,7 +285,7 @@
          },
          {
             "Name":"Narwall",
-            "ProfilePicture":"narwall.png",
+            "ProfilePicture":"narwall.gif",
             "Discord":"336663714801385472",
             "GitHub":"",
             "Twitch":"that_one_narwhal",
@@ -368,7 +368,7 @@
          },
          {
             "Name":"Aithke",
-            "ProfilePicture":"aithke.png",
+            "ProfilePicture":"aithke.gif",
             "Discord":"261635966341480470",
             "GitHub":"",
             "Twitch":"aithke",
@@ -386,7 +386,7 @@
          },
          {
             "Name":"Atamik",
-            "ProfilePicture":"atamik",
+            "ProfilePicture":"atamik.png",
             "Discord":"140773812886044672",
             "GitHub":"",
             "Twitch":"atamik_",
@@ -404,7 +404,7 @@
          },
          {
             "Name":"cerret",
-            "ProfilePicture":"",
+            "ProfilePicture":"cerret.png",
             "Discord":"241387804146270209",
             "GitHub":"",
             "Twitch":"cerret07",
@@ -476,7 +476,7 @@
          },
          {
             "Name":"Rocker",
-            "ProfilePicture":"rocker.png",
+            "ProfilePicture":"rocker.gif",
             "Discord":"132449590527000576",
             "GitHub":"",
             "Twitch":"rocker1904",
