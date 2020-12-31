@@ -26,18 +26,18 @@
             "ProfilePicture":"lolpants.png",
             "Discord":"66184467269558272",
             "GitHub":"lolPants",
-            "Twitch":"",
+            "Twitch":null,
             "Twitter":"JackBaron__",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Assistant",
             "ProfilePicture":"assistant.png",
             "Discord":"314941664341000193",
             "GitHub":"Assistant",
-            "Twitch":"",
+            "Twitch":null,
             "Twitter":"AssistantMoe",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"williums",
@@ -46,7 +46,7 @@
             "GitHub":"williums",
             "Twitch":"williums",
             "Twitter":"williuums",
-            "YouTube":""
+            "YouTube":null
          }
       ],
       "Mod":[
@@ -85,8 +85,8 @@
             "Discord":"134482734771994624",
             "GitHub":"sc2ad",
             "Twitch":"sc2ad",
-            "Twitter":"",
-            "YouTube":""
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"Rabbit",
@@ -103,17 +103,17 @@
             "Discord":"267411994821394432",
             "GitHub":"Qwasyx",
             "Twitch":"qwasyx3000",
-            "Twitter":"",
-            "YouTube":""
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"Checkthepan",
             "ProfilePicture":"checkthepan.gif",
             "Discord":"184355369189900290",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"checkthepan",
             "Twitter":"checkthepan",
-            "YouTube":""
+            "YouTube":null
          }
       ],
       "Admin":[
@@ -129,8 +129,8 @@
          {
             "Name":"AFriendlyPug",
             "ProfilePicture":"afriendlypug.png",
-            "Discord":"",
-            "GitHub":"",
+            "Discord":null,
+            "GitHub":null,
             "Twitch":"afriendlypug",
             "Twitter":"AFriendlyPug",
             "YouTube":"UCRoJy_hQoDIJAsRQZLxYeXA"
@@ -141,7 +141,7 @@
             "Name":"altrewin",
             "ProfilePicture":"altrewin.png",
             "Discord":"448891911609253904",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"altrewin",
             "Twitter":"altrewin",
             "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
@@ -150,7 +150,7 @@
             "Name":"Amanatsu",
             "ProfilePicture":"amanatsu.png",
             "Discord":"145838716877930496",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"amanatsu",
             "Twitter":"Amanyatsu",
             "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
@@ -159,19 +159,19 @@
             "Name":"cheesydream",
             "ProfilePicture":"cheesydream.png",
             "Discord":"129854102606708737",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"cheesydream_",
             "Twitter":"Cheeseydream",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Uninstaller",
             "ProfilePicture":"uninstaller.png",
             "Discord":"84840552935194624",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"uninstaller_",
             "Twitter":"Uninstaller3",
-            "YouTube":""
+            "YouTube":null
          }
       ],
       "RT":[
@@ -179,16 +179,16 @@
             "Name":"Aithke",
             "ProfilePicture":"aithke.gif",
             "Discord":"261635966341480470",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"aithke",
             "Twitter":"Aithke15_04",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"altrewin",
             "ProfilePicture":"altrewin.png",
             "Discord":"448891911609253904",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"altrewin",
             "Twitter":"altrewin",
             "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
@@ -197,7 +197,7 @@
             "Name":"Amanatsu",
             "ProfilePicture":"amanatsu.png",
             "Discord":"145838716877930496",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"amanatsu",
             "Twitter":"Amanyatsu",
             "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
@@ -206,52 +206,52 @@
             "Name":"cheesydream",
             "ProfilePicture":"cheesydream.png",
             "Discord":"129854102606708737",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"cheesydream_",
             "Twitter":"Cheeseydream",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Uninstaller",
             "ProfilePicture":"uninstaller.png",
             "Discord":"84840552935194624",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"uninstaller_",
             "Twitter":"Uninstaller3",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Checkthepan",
             "ProfilePicture":"checkthepan.gif",
             "Discord":"184355369189900290",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"checkthepan",
             "Twitter":"checkthepan",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Complex Frequency",
             "ProfilePicture":"complexfrequency.png",
-            "Discord":"",
-            "GitHub":"",
-            "Twitch":"",
-            "Twitter":"",
-            "YouTube":""
+            "Discord":null,
+            "GitHub":null,
+            "Twitch":null,
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"Fnyt",
             "ProfilePicture":"fnyt.png",
             "Discord":"184540171859918848",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"fnyt",
-            "Twitter":"",
-            "YouTube":""
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"Foxy Boi",
             "ProfilePicture":"foxyboi.png",
             "Discord":"336079866925547520",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"zefoxyboi",
             "Twitter":"FoxyyBoii",
             "YouTube":"UCu0WMOOmT8emyUu5-Nv-KeQ"
@@ -260,7 +260,7 @@
             "Name":"CoolingCloset",
             "ProfilePicture":"coolingcloset.png",
             "Discord":"181291351315316736",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"coolingcloset",
             "Twitter":"levi_tames",
             "YouTube":"UC--Ppt9agjkHI5XkqV76wjg"
@@ -269,28 +269,28 @@
             "Name":"Hexagonial",
             "ProfilePicture":"hexagonial.png",
             "Discord":"221442943045599232",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"hexxygonial",
             "Twitter":"Hexxygonial",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"muffn",
             "ProfilePicture":"muffn.png",
             "Discord":"219099186505711616",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"nomuffn",
             "Twitter":"nomuffn",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Narwall",
             "ProfilePicture":"narwall.gif",
             "Discord":"336663714801385472",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"that_one_narwhal",
-            "Twitter":"",
-            "YouTube":""
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"Qwasyx",
@@ -298,14 +298,14 @@
             "Discord":"267411994821394432",
             "GitHub":"Qwasyx",
             "Twitch":"qwasyx3000",
-            "Twitter":"",
-            "YouTube":""
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"shrado",
             "ProfilePicture":"shrado.png",
             "Discord":"176831918166376449",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"shrado",
             "Twitter":"shrado1",
             "YouTube":"UCJteEKhPaaCVBe08q3f368A"
@@ -314,16 +314,16 @@
             "Name":"Skeelie",
             "ProfilePicture":"skeelie.png",
             "Discord":"119467937928052748",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"skeelie",
-            "Twitter":"",
-            "YouTube":""
+            "Twitter":null,
+            "YouTube":null
          },
          {
             "Name":"Simply Marvellous",
             "ProfilePicture":"simplymarvellous.png",
             "Discord":"189618441429319680",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"marvellouslysimple",
             "Twitter":"SimplyMarvAU",
             "YouTube":"UCOGj_tSBPcucFHExb73XV8Q"
@@ -332,19 +332,19 @@
             "Name":"Kivel Evan",
             "ProfilePicture":"kival evan.png",
             "Discord":"235716592896311296",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"kivalevan",
-            "Twitter":"",
+            "Twitter":null,
             "YouTube":"UC5pOhteTPou4iA8bNaEx3IA"
          },
          {
             "Name":"Vilanya",
             "ProfilePicture":"vilanya.png",
             "Discord":"348917611150704641",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"vilawess",
             "Twitter":"Vilawes",
-            "YouTube":""
+            "YouTube":null
          }
       ],
       "QAT":[
@@ -352,34 +352,34 @@
             "Name":"Checkthepan",
             "ProfilePicture":"checkthepan.gif",
             "Discord":"184355369189900290",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"checkthepan",
             "Twitter":"checkthepan",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"oddloop",
             "ProfilePicture":"oddloop.png",
             "Discord":"173241614192476161",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"notoddloop",
             "Twitter":"oddloop_",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Aithke",
             "ProfilePicture":"aithke.gif",
             "Discord":"261635966341480470",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"aithke",
             "Twitter":"Aithke15_04",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"altrewin",
             "ProfilePicture":"altrewin.png",
             "Discord":"448891911609253904",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"altrewin",
             "Twitter":"altrewin",
             "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
@@ -388,7 +388,7 @@
             "Name":"Atamik",
             "ProfilePicture":"atamik.png",
             "Discord":"140773812886044672",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"atamik_",
             "Twitter":"AtamikAU",
             "YouTube":"UCz3rxqzb7VoDU_HkzJlxzlA"
@@ -397,7 +397,7 @@
             "Name":"Bantalope",
             "ProfilePicture":"bantalope.png",
             "Discord":"260502929604214784",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"bantaloop",
             "Twitter":"BantalopeIThink",
             "YouTube":"UCOWlwZ8AW6Z2qCy7y_8PPVg"
@@ -406,16 +406,16 @@
             "Name":"cerret",
             "ProfilePicture":"cerret.png",
             "Discord":"241387804146270209",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"cerret07",
             "Twitter":"cerret4",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"CoolingCloset",
             "ProfilePicture":"coolingcloset.png",
             "Discord":"181291351315316736",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"coolingcloset",
             "Twitter":"levi_tames",
             "YouTube":"UC--Ppt9agjkHI5XkqV76wjg"
@@ -424,7 +424,7 @@
             "Name":"Incanium",
             "ProfilePicture":"incanium.png",
             "Discord":"158560971101569024",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"incanium",
             "Twitter":"Incanium",
             "YouTube":"UCRv4twRsG_CrZ5PzQzjinQg"
@@ -433,34 +433,34 @@
             "Name":"Jaack",
             "ProfilePicture":"jaack.png",
             "Discord":"205063747914432512",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"jaack_bs",
             "Twitter":"Jaack_VR",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Koalafied Operator",
             "ProfilePicture":"koalafied operator.gif",
             "Discord":"183399145665593344",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"koalafiedoperator",
             "Twitter":"KoalafiedOp",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"LemoNade",
             "ProfilePicture":"lemonade.png",
             "Discord":"275218075916304386",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"lemo_nade__",
-            "Twitter":"",
+            "Twitter":null,
             "YouTube":"R0taGMi07LZFnAt0MLQ"
          },
          {
             "Name":"Mawntee",
             "ProfilePicture":"mawntee.png",
             "Discord":"113073785522941952",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"mawntee",
             "Twitter":"mawntee",
             "YouTube":"UCMsPHZpcTSsSl_mLNQELVcw"
@@ -469,7 +469,7 @@
             "Name":"miitchel",
             "ProfilePicture":"miitchel.png",
             "Discord":"163990736734257154",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"miitchel",
             "Twitter":"miitchelVR",
             "YouTube":"UCptFLFwMt8h3nRom_5M9blA"
@@ -478,7 +478,7 @@
             "Name":"Rocker",
             "ProfilePicture":"rocker.gif",
             "Discord":"132449590527000576",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"rocker1904",
             "Twitter":"rocker1904",
             "YouTube":"UCoDuGRzPzf2-EbtaaKhRoLw"
@@ -487,7 +487,7 @@
             "Name":"Rogdude",
             "ProfilePicture":"rogdude.png",
             "Discord":"188959578317258762",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"rogdudevr",
             "Twitter":"Rogdude1",
             "YouTube":"UCS9wwACx_SlGnKqSe9C_NYQ"
@@ -496,10 +496,10 @@
             "Name":"Tootie",
             "ProfilePicture":"tootie.png",
             "Discord":"241404507026751489",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"tootie",
             "Twitter":"TootieMcGootie",
-            "YouTube":""
+            "YouTube":null
          }
       ],
       "CAT":[
@@ -507,7 +507,7 @@
             "Name":"Amanatsu",
             "ProfilePicture":"amanatsu.png",
             "Discord":"145838716877930496",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"amanatsu",
             "Twitter":"Amanyatsu",
             "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
@@ -516,19 +516,19 @@
             "Name":"Uninstaller",
             "ProfilePicture":"uninstaller.png",
             "Discord":"84840552935194624",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"uninstaller_",
             "Twitter":"Uninstaller3",
-            "YouTube":""
+            "YouTube":null
          },
          {
             "Name":"Fern",
             "ProfilePicture":"fern.png",
             "Discord":"161202739949338625",
-            "GitHub":"",
+            "GitHub":null,
             "Twitch":"notfernyx",
             "Twitter":"FernyxTweets",
-            "YouTube":""
+            "YouTube":null
          }
       ]
    }
