@@ -338,7 +338,7 @@
             "YouTube":"UCOGj_tSBPcucFHExb73XV8Q"
          },
          {
-            "Name":"Kivel Evan",
+            "Name":"Kival Evan",
             "ProfilePicture":"kival evan.png",
             "Discord":"235716592896311296",
             "GitHub":null,
@@ -355,7 +355,16 @@
             "Twitter":"Vilawes",
             "YouTube":null
          },
-	 {
+         {
+            "Name":"eZconfirmed",
+            "ProfilePicture":"ezconfirmed.png",
+            "Discord":"343415744324960256",
+            "GitHub":null,
+            "Twitch":"ezconfirmed",
+            "Twitter":"ezconfirmed",
+            "YouTube":"UC_XYyWl_S0JtqLHjfNqXHxA"
+        },
+	      {
             "Name":"Timbo",
             "ProfilePicture":"Timbo.gif",
             "Discord":"123836315903983620",
