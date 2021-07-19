@@ -382,7 +382,16 @@
             "Twitter":"ezconfirmed",
             "YouTube":"UC_XYyWl_S0JtqLHjfNqXHxA"
         },
-	      {
+         {
+            "Name":"fvrwvrd",
+            "ProfilePicture":"fvwvrd.png",
+            "Discord":"863525580079235132",
+            "GitHub":null,
+            "Twitch":"fvrwvrd",
+            "Twitter":null,
+            "YouTube":"UCXS1rZI4XUb273xoE8iLCmA"
+         },
+	  {
             "Name":"Timbo",
             "ProfilePicture":"Timbo.gif",
             "Discord":"123836315903983620",
@@ -482,6 +491,15 @@
             "Twitch":"coolingcloset",
             "Twitter":"levi_tames",
             "YouTube":"UC--Ppt9agjkHI5XkqV76wjg"
+         },
+         {
+            "Name":"fvrwvrd",
+            "ProfilePicture":"fvwvrd.png",
+            "Discord":"863525580079235132",
+            "GitHub":null,
+            "Twitch":"fvrwvrd",
+            "Twitter":null,
+            "YouTube":"UCXS1rZI4XUb273xoE8iLCmA"
          },
          {
             "Name":"Incanium",
