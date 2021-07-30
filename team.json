@@ -391,7 +391,16 @@
             "Twitter":"ezconfirmed",
             "YouTube":"UC_XYyWl_S0JtqLHjfNqXHxA"
         },
-	      {
+         {
+            "Name":"fvrwvrd",
+            "ProfilePicture":"fvwvrd.png",
+            "Discord":"863525580079235132",
+            "GitHub":null,
+            "Twitch":"fvrwvrd",
+            "Twitter":null,
+            "YouTube":"UCXS1rZI4XUb273xoE8iLCmA"
+         },
+	  {
             "Name":"Timbo",
             "ProfilePicture":"Timbo.gif",
             "Discord":"123836315903983620",
@@ -399,7 +408,16 @@
             "Twitch":"timbo_x3",
             "Twitter":null,
             "YouTube":"UCKbhXj8N5j-8aRCsxqXBJPA"
-         }
+         },
+         {
+            "Name":"Xhera",
+            "ProfilePicture":"Xhera.gif",
+            "Discord":"864906373643632682",
+            "GitHub":null,
+            "Twitch":"xhera",
+            "Twitter":"xheraaaa",
+            "YouTube":"UC2Zn83WCj2T1vvpz_8aZWhA"
+         },
       ],
       "QAT":[
          {
@@ -484,6 +502,15 @@
             "YouTube":"UC--Ppt9agjkHI5XkqV76wjg"
          },
          {
+            "Name":"fvrwvrd",
+            "ProfilePicture":"fvwvrd.png",
+            "Discord":"863525580079235132",
+            "GitHub":null,
+            "Twitch":"fvrwvrd",
+            "Twitter":null,
+            "YouTube":"UCXS1rZI4XUb273xoE8iLCmA"
+         },
+         {
             "Name":"Incanium",
             "ProfilePicture":"incanium.png",
             "Discord":"158560971101569024",
@@ -545,6 +572,15 @@
             "Twitch":"that_one_narwhal",
             "Twitter":"One_narwhal",
             "YouTube":"UC09siDS15qQB1870QvQGf7A"
+         },
+         {
+            "Name":"riasuh",
+            "ProfilePicture":"riasuh.png",
+            "Discord":"864941476013670410",
+            "GitHub":null,
+            "Twitch":"riasuh",
+            "Twitter":"riasuh_",
+            "YouTube":"UCLVjXU4UxoHyF_RrnJMxSxg"
          },
          {
             "Name":"Rocker",
