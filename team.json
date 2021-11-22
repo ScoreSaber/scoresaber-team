@@ -147,15 +147,6 @@
       ],
       "NAT":[
          {
-            "Name":"altrewin",
-            "ProfilePicture":"altrewin.gif",
-            "Discord":"448891911609253904",
-            "GitHub":null,
-            "Twitch":"altrewin",
-            "Twitter":"altrewin",
-            "YouTube":"UCIWy6KEpvRVOgq2LQOfXvog"
-         },
-         {
             "Name":"Amanatsu",
             "ProfilePicture":"amanatsu.png",
             "Discord":"145838716877930496",
@@ -264,15 +255,6 @@
             "Twitch":"ComplexFrequency",
             "Twitter":null,
             "YouTube":"UCLN94ZuN0CWH5p1-syZxMYA"
-         },
-         {
-            "Name":"Fnyt",
-            "ProfilePicture":"fnyt.png",
-            "Discord":"184540171859918848",
-            "GitHub":null,
-            "Twitch":"fnyt",
-            "Twitter":null,
-            "YouTube":null
          },
          {
             "Name":"Foxy Boi",
