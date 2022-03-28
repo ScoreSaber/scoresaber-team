@@ -181,6 +181,15 @@
             "Twitch":"uninstaller_",
             "Twitter":"Uninstaller3",
             "YouTube":null
+         },
+         {
+            "Name":"abcbadq",
+            "ProfilePicture":"abcbadq.png",
+            "Discord":"143237840438820866",
+            "GitHub":null,
+            "Twitch":"abcbadq",
+            "Twitter":"abcbadq",
+            "YouTube":null
          }
       ],
       "RT":[
@@ -417,6 +426,33 @@
             "Twitch":"slimyblob",
             "Twitter":"BrekkeDen",
             "YouTube":"UCweDaFtiJuunPmfWLoswWLQ"
+         },
+         {
+            "Name":"Cobayo",
+            "ProfilePicture":"blob.jpg",
+            "Discord":"242051945999630336",
+            "GitHub":null,
+            "Twitch":"wdg_cobayo",
+            "Twitter":"CobayoGamer",
+            "YouTube":"UCF4xdqK7bnuaEuMDaTzHs9A"
+         },
+         {
+            "Name":"Alice",
+            "ProfilePicture":"alice.png",
+            "Discord":"70788202327179264",
+            "GitHub":null,
+            "Twitch":"alicexiv",
+            "Twitter":"alicexiv",
+            "YouTube":"UC7tQXKPzGjRUuHrTNP_KgLQ"
+         },
+         {
+            "Name":"ThySpoon",
+            "ProfilePicture":"kana.jpg",
+            "Discord":"247521066753327126",
+            "GitHub":null,
+            "Twitch":"ThySpoone",
+            "Twitter":"ThySpoonn",
+            "YouTube":"UCg9MmhaSuKnYzOt6QXqJYKw"
          }
       ],
       "QAT":[
