@@ -183,6 +183,15 @@
             "YouTube":null
          },
          {
+            "Name":"Narwall",
+            "ProfilePicture":"narwall.gif",
+            "Discord":"336663714801385472",
+            "GitHub":null,
+            "Twitch":"that_one_narwhal",
+            "Twitter":"One_narwhal",
+            "YouTube":"UC09siDS15qQB1870QvQGf7A"
+         },
+         {
             "Name":"abcbadq",
             "ProfilePicture":"abcbadq.png",
             "Discord":"143237840438820866",
@@ -453,6 +462,15 @@
             "Twitch":"ThySpoone",
             "Twitter":"ThySpoonn",
             "YouTube":"UCg9MmhaSuKnYzOt6QXqJYKw"
+         },
+         {
+            "Name":"nolanLMOA",
+            "ProfilePicture":"lmoa.jpg",
+            "Discord":"193032862352670721",
+            "GitHub":null,
+            "Twitch":"nolanlmoa",
+            "Twitter":"LmoaNolan",
+            "YouTube":"UCH8C-Bx4svkFUlGhiPfqmxg"
          }
       ],
       "QAT":[
