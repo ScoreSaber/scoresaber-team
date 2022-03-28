@@ -337,6 +337,15 @@
             "Twitter":null,
             "YouTube":null
          },
+	 {
+            "Name":"Rusty",
+            "ProfilePicture":"Rusty.jpg",
+            "Discord":"300260910981971972",
+            "GitHub":null,
+            "Twitch":"rustydesu_",
+            "Twitter":"rustydesu_",
+            "YouTube":"UCZh9_Idd5q1Nwl4G5kMVrxg"
+         },
          {
             "Name":"shrado",
             "ProfilePicture":"shrado.png",
