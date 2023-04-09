@@ -108,7 +108,7 @@
          },
          {
             "Name":"Qwasyx",
-            "ProfilePicture":"qwasyx.png",
+            "ProfilePicture":"gayqwasyx.png",
             "Discord":"267411994821394432",
             "GitHub":"Qwasyx",
             "Twitch":"qwasyx3000",
@@ -156,6 +156,15 @@
             "YouTube":null
          },
          {
+            "Name":"Alice",
+            "ProfilePicture":"alice.png",
+            "Discord":"70788202327179264",
+            "GitHub":null,
+            "Twitch":"alicexiv",
+            "Twitter":"alicexiv",
+            "YouTube":"UC7tQXKPzGjRUuHrTNP_KgLQ"
+         },
+         {
             "Name":"Amanatsu",
             "ProfilePicture":"amanatsu.png",
             "Discord":"145838716877930496",
@@ -163,15 +172,6 @@
             "Twitch":"amanatsu",
             "Twitter":"Amanyatsu",
             "YouTube":"UCdG9zS8jVcQIKl7plwWXUkg"
-         },
-         {
-            "Name":"Narwall",
-            "ProfilePicture":"narwall.gif",
-            "Discord":"336663714801385472",
-            "GitHub":null,
-            "Twitch":"that_one_narwhal",
-            "Twitter":"One_narwhal",
-            "YouTube":"UC09siDS15qQB1870QvQGf7A"
          },
          {
             "Name":"Skeelie",
@@ -200,6 +200,15 @@
             "GitHub":null,
             "Twitch":"abcbadq",
             "Twitter":"abcbadq",
+            "YouTube":null
+         },
+         {
+            "Name":"Aimedhades16",
+            "ProfilePicture":"Hades.png",
+            "Discord":"269208685077594112",
+            "GitHub":null,
+            "Twitch":"aimedhades16",
+            "Twitter":"aimedhades16",
             "YouTube":null
          },
          {
@@ -237,6 +246,15 @@
             "Twitch":"atomosophere",
             "Twitter":null,
             "YouTube":null
+         },
+         {
+            "Name":"Bitz",
+            "ProfilePicture":"bitz.png",
+            "Discord":"172410617066422273",
+            "GitHub":null,
+            "Twitch":"gbitz",
+            "Twitter":"gamebitz",
+            "YouTube":"UC7T1uUHfocD9ADApYecBLvQ"
          },
          {
             "Name":"Checkthepan",
@@ -293,6 +311,15 @@
             "YouTube":"UCXS1rZI4XUb273xoE8iLCmA"
          },
          {
+            "Name":"fqrb",
+            "ProfilePicture":"fqrb.png",
+            "Discord":"331490163739983872",
+            "GitHub":"fqrb",
+            "Twitch":"fqrbi",
+            "Twitter":"Fqrby",
+            "YouTube":"UCX6gmk5jZvcuEXo8AWjmS4Q"
+         },
+         {
             "Name":"Hexagonial",
             "ProfilePicture":"hexagonial.png",
             "Discord":"221442943045599232",
@@ -302,15 +329,6 @@
             "YouTube":null
          },
          {
-            "Name":"Jabob",
-            "ProfilePicture":"jabobmariostyle.gif",
-            "Discord":"195639236672618496",
-            "GitHub":null,
-            "Twitch":"jaboooooob",
-            "Twitter":"JabobGaming",
-            "YouTube":"UCV1IPe4PueopMUbQdRcj3gg"
-         },
-         {
             "Name":"muffn",
             "ProfilePicture":"muffn.png",
             "Discord":"219099186505711616",
@@ -318,15 +336,6 @@
             "Twitch":"nomuffn",
             "Twitter":"nomuffn",
             "YouTube":null
-         },
-         {
-            "Name":"Narwall",
-            "ProfilePicture":"narwall.gif",
-            "Discord":"336663714801385472",
-            "GitHub":null,
-            "Twitch":"that_one_narwhal",
-            "Twitter":"One_narwhal",
-            "YouTube":"UC09siDS15qQB1870QvQGf7A"
          },
          {
             "Name":"Purp1e",
@@ -339,7 +348,7 @@
          },
          {
             "Name":"Qwasyx",
-            "ProfilePicture":"qwasyx.png",
+            "ProfilePicture":"gayqwasyx.png",
             "Discord":"267411994821394432",
             "GitHub":"Qwasyx",
             "Twitch":"qwasyx3000",
@@ -354,15 +363,6 @@
             "Twitch":"lrockz",
             "Twitter":"diemondl",
             "YouTube":"UCl9mikLhwhrXn-nWFqMpADQ"
-         },
-	      {
-            "Name":"Rusty",
-            "ProfilePicture":"Rusty.jpg",
-            "Discord":"300260910981971972",
-            "GitHub":null,
-            "Twitch":"rustydesu_",
-            "Twitter":"rustydesu_",
-            "YouTube":"UCZh9_Idd5q1Nwl4G5kMVrxg"
          },
          {
             "Name":"shrado",
@@ -392,24 +392,6 @@
             "YouTube":"UCZYZ_PJ3rntUgWHCPfJYW1Q"
          },
          {
-            "Name":"SlimyBlob",
-            "ProfilePicture":"SlimyBlob.jpg",
-            "Discord":"320277915755610113",
-            "GitHub":null,
-            "Twitch":"slimyblob",
-            "Twitter":"BrekkeDen",
-            "YouTube":"UCweDaFtiJuunPmfWLoswWLQ"
-         },
-         {
-            "Name":"Stella",
-            "ProfilePicture":"Stella.png",
-            "Discord":"387097795913449482",
-            "GitHub":null,
-            "Twitch":null,
-            "Twitter":null,
-            "YouTube":null
-         },
-         {
             "Name":"ThySpoon",
             "ProfilePicture":"ThySpoon.jpg",
             "Discord":"247521066753327126",
@@ -420,7 +402,7 @@
          },
          {
             "Name":"Timbo",
-            "ProfilePicture":"Timbo.gif",
+            "ProfilePicture":"Timbo.png",
             "Discord":"123836315903983620",
             "GitHub":null,
             "Twitch":"timbo_x3",
@@ -480,6 +462,15 @@
             "Twitch":"yabje0_0",
             "Twitter":"yabje_",
             "YouTube":"UC8FD96U42n_yXUuJe4DMR6g"
+         },
+         {
+            "Name":"Zana",
+            "ProfilePicture":"Zana.jpg",
+            "Discord":"486308009652387841",
+            "GitHub":null,
+            "Twitch":"zanalukosius",
+            "Twitter":"IrishVhure",
+            "YouTube":"UCJcMDS_B8zpvoss8JdtjP1g"
          }
       ],
       "QAT":[
@@ -500,15 +491,6 @@
             "Twitch":"astrella_",
             "Twitter":null,
             "YouTube":null
-         },
-         {
-            "Name":"Atamik",
-            "ProfilePicture":"atamik.png",
-            "Discord":"140773812886044672",
-            "GitHub":null,
-            "Twitch":"atamik_",
-            "Twitter":"AtamikAU",
-            "YouTube":"UCz3rxqzb7VoDU_HkzJlxzlA"
          },
          {
             "Name":"Bantalope",
@@ -565,15 +547,6 @@
             "YouTube":"UCiWvjxSxDcxc9-fzjPRpSQg"
          },
          {
-            "Name":"Flee",
-            "ProfilePicture":"Flee.jpg",
-            "Discord":"84607994645450752",
-            "GitHub":null,
-            "Twitch":"flee_vr",
-            "Twitter":"Flee_VR",
-            "YouTube":null
-         },
-         {
             "Name":"fvrwvrd",
             "ProfilePicture":"fvrwvrd.png",
             "Discord":"863525580079235132",
@@ -592,6 +565,15 @@
             "YouTube":"UCV1IPe4PueopMUbQdRcj3gg"
          },
          {
+            "Name":"Joshabi",
+            "ProfilePicture":"Joshabi.png",
+            "Discord":"169894107517419520",
+            "GitHub": "Joshabi",
+            "Twitch":"joshabi",
+            "Twitter":"Joshabi",
+            "YouTube":"UCjyA_3l0sPM8uFAvWPSYzqA"
+         },
+         {
             "Name":"LemoNade",
             "ProfilePicture":"lemonade.png",
             "Discord":"275218075916304386",
@@ -599,15 +581,6 @@
             "Twitch":"lemo_nade__",
             "Twitter":null,
             "YouTube":"R0taGMi07LZFnAt0MLQ"
-         },
-         {
-            "Name":"Luxas",
-            "ProfilePicture":"luxas.png",
-            "Discord":"339457931282219009",
-            "GitHub":null,
-            "Twitch":"luxas00",
-            "Twitter":null,
-            "YouTube":null
          },
          {
             "Name":"Mawntee",
@@ -619,13 +592,13 @@
             "YouTube":"UCMsPHZpcTSsSl_mLNQELVcw"
          },
          {
-            "Name":"Narwall",
-            "ProfilePicture":"narwall.gif",
-            "Discord":"336663714801385472",
+            "Name":"Namoori",
+            "ProfilePicture":"Namoori.jpg",
+            "Discord":"485104549183356939",
             "GitHub":null,
-            "Twitch":"that_one_narwhal",
-            "Twitter":"One_narwhal",
-            "YouTube":"UC09siDS15qQB1870QvQGf7A"
+            "Twitch":"namoori_",
+            "Twitter":null,
+            "YouTube":"UCo6B_iCusLxIflMDIEoe8rg"
          },
          {
             "Name":"Nolanimations",
@@ -665,7 +638,7 @@
          },
          {
             "Name":"Qwasyx",
-            "ProfilePicture":"qwasyx.png",
+            "ProfilePicture":"gayqwasyx.png",
             "Discord":"267411994821394432",
             "GitHub":"Qwasyx",
             "Twitch":"qwasyx3000",
@@ -674,7 +647,7 @@
          },
          {
             "Name":"Timbo",
-            "ProfilePicture":"Timbo.gif",
+            "ProfilePicture":"Timbo.png",
             "Discord":"123836315903983620",
             "GitHub":null,
             "Twitch":"timbo_x3",
