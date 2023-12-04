@@ -9,6 +9,15 @@
             "Twitch":"umbranoxius",
             "Twitter":"Umbranoxus",
             "YouTube":"UCdv8M053mWGyN7PFRO_6Ctw"
+         },
+         {
+            "Name":"Qwasyx",
+            "ProfilePicture":"gayqwasyx.png",
+            "Discord":"267411994821394432",
+            "GitHub":"Qwasyx",
+            "Twitch":"qwasyx3000",
+            "Twitter":null,
+            "YouTube":null
          }
       ],
       "Frontend":[
@@ -67,6 +76,15 @@
             "Twitch":"AurosVR",
             "Twitter":"AurosVR",
             "YouTube":"UCmp351rR-rtljFBNkZZQrcg"
+         },
+         {
+            "Name":"Qwasyx",
+            "ProfilePicture":"gayqwasyx.png",
+            "Discord":"267411994821394432",
+            "GitHub":"Qwasyx",
+            "Twitch":"qwasyx3000",
+            "Twitter":null,
+            "YouTube":null
          }
       ],
       "PPv3":[
@@ -143,6 +161,15 @@
             "Twitch":"afriendlypug",
             "Twitter":"AFriendlyPug",
             "YouTube":"UCRoJy_hQoDIJAsRQZLxYeXA"
+         },
+         {
+            "Name":"Qwasyx",
+            "ProfilePicture":"gayqwasyx.png",
+            "Discord":"267411994821394432",
+            "GitHub":"Qwasyx",
+            "Twitch":"qwasyx3000",
+            "Twitter":null,
+            "YouTube":null
          }
       ],
       "NAT":[
@@ -257,15 +284,6 @@
             "YouTube":"UC7T1uUHfocD9ADApYecBLvQ"
          },
          {
-            "Name":"Checkthepan",
-            "ProfilePicture":"checkthepan.gif",
-            "Discord":"184355369189900290",
-            "GitHub":null,
-            "Twitch":"checkthepan",
-            "Twitter":"checkthepan",
-            "YouTube":null
-         },
-         {
             "Name":"Cobayo",
             "ProfilePicture":"Cobayo.png",
             "Discord":"242051945999630336",
@@ -338,6 +356,15 @@
             "YouTube":null
          },
          {
+            "Name":"Olaf",
+            "ProfilePicture":"olaf.jpg",
+            "Discord":"341971173116084224",
+            "GitHub":null,
+            "Twitch":"olafstad",
+            "Twitter":"olaf_stadhouder",
+            "YouTube":null
+         },
+         {
             "Name":"Purp1e",
             "ProfilePicture":"purp1e.jpg",
             "Discord":"537745391412838411",
@@ -363,15 +390,6 @@
             "Twitch":"lrockz",
             "Twitter":"diemondl",
             "YouTube":"UCl9mikLhwhrXn-nWFqMpADQ"
-         },
-         {
-            "Name":"shrado",
-            "ProfilePicture":"shrado.jpg",
-            "Discord":"176831918166376449",
-            "GitHub":null,
-            "Twitch":"shrado",
-            "Twitter":"shrado115",
-            "YouTube":"UCJteEKhPaaCVBe08q3f368A"
          },
          {
             "Name":"Simply Marvellous",
@@ -511,15 +529,6 @@
             "YouTube":"UC7T1uUHfocD9ADApYecBLvQ"
          },
          {
-            "Name":"Checkthepan",
-            "ProfilePicture":"checkthepan.gif",
-            "Discord":"184355369189900290",
-            "GitHub":null,
-            "Twitch":"checkthepan",
-            "Twitter":"checkthepan",
-            "YouTube":null
-         },
-         {
             "Name":"CoolingCloset",
             "ProfilePicture":"coolingcloset.png",
             "Discord":"181291351315316736",
@@ -590,15 +599,6 @@
             "Twitch":"lemo_nade__",
             "Twitter":null,
             "YouTube":"R0taGMi07LZFnAt0MLQ"
-         },
-         {
-            "Name":"Mawntee",
-            "ProfilePicture":"mawntee.png",
-            "Discord":"113073785522941952",
-            "GitHub":null,
-            "Twitch":"mawntee",
-            "Twitter":"mawntee",
-            "YouTube":"UCMsPHZpcTSsSl_mLNQELVcw"
          },
          {
             "Name":"Namoori",
