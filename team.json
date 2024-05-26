@@ -183,15 +183,6 @@
       ],
       "NAT": [
          {
-            "Name": "abcbadq",
-            "ProfilePicture": "abcbadq.png",
-            "Discord": "143237840438820866",
-            "GitHub": null,
-            "Twitch": "abcbadq",
-            "Twitter": "abcbadq",
-            "YouTube": null
-         },
-         {
             "Name": "Alice",
             "ProfilePicture": "alice.png",
             "Discord": "70788202327179264",
@@ -226,18 +217,18 @@
             "Twitch": "uninstaller_",
             "Twitter": "Uninstaller3",
             "YouTube": null
-         }
+         },
+         {
+            "Name": "yabje",
+            "ProfilePicture": "yabje.png",
+            "Discord": "397816897963294740",
+            "GitHub": "yabje",
+            "Twitch": "yabje0_0",
+            "Twitter": "yabje_",
+            "YouTube": "UC8FD96U42n_yXUuJe4DMR6g"
+          }
       ],
       "RT": [
-         {
-            "Name": "abcbadq",
-            "ProfilePicture": "abcbadq.png",
-            "Discord": "143237840438820866",
-            "GitHub": null,
-            "Twitch": "abcbadq",
-            "Twitter": "abcbadq",
-            "YouTube": null
-         },
          {
             "Name": "Aimedhades16",
             "ProfilePicture": "Hades.png",
@@ -347,6 +338,15 @@
             "YouTube": "UCX6gmk5jZvcuEXo8AWjmS4Q"
          },
          {
+            "Name": "Hener",
+            "ProfilePicture": "Hener.png",
+            "Discord": "339551469026017282",
+            "GitHub": null,
+            "Twitch": "hener_vr",
+            "Twitter": "HenerVR",
+            "YouTube": "UCHVU8P8k8Qv9aBWoTZK3VrA"
+         },
+         {
             "Name": "Hexagonial",
             "ProfilePicture": "hexagonial.png",
             "Discord": "221442943045599232",
@@ -354,6 +354,15 @@
             "Twitch": "hexxygonial",
             "Twitter": "Hexxygonial",
             "YouTube": null
+         },
+         {
+            "Name": "Jabob",
+            "ProfilePicture": "jabobmariostyle.gif",
+            "Discord": "195639236672618496",
+            "GitHub": null,
+            "Twitch": "jaboooooob",
+            "Twitter": "JabobGaming",
+            "YouTube": "UCV1IPe4PueopMUbQdRcj3gg"
          },
          {
             "Name": "muffn",
@@ -392,6 +401,15 @@
             "YouTube": null
          },
          {
+            "Name": "RetrX",
+            "ProfilePicture": "Retrx.png",
+            "Discord": "968922688418644078",
+            "GitHub": null,
+            "Twitch": "retrx2",
+            "Twitter": "RetrX14",
+            "YouTube": "UCLpkASoyFtOmkIx9kufhQ1A"
+         },
+         {
             "Name": "RocKz",
             "ProfilePicture": "RocKz.png",
             "Discord": "190107137463025665",
@@ -401,13 +419,13 @@
             "YouTube": "UCl9mikLhwhrXn-nWFqMpADQ"
          },
          {
-            "Name": "Simply Marvellous",
-            "ProfilePicture": "simplymarvellous.png",
-            "Discord": "189618441429319680",
+            "Name": "Rusty",
+            "ProfilePicture": "Rusty.png",
+            "Discord": "300260910981971972",
             "GitHub": null,
-            "Twitch": "marvellouslysimple",
-            "Twitter": "SimplyMarvAU",
-            "YouTube": "UCOGj_tSBPcucFHExb73XV8Q"
+            "Twitch": "rustydesu_",
+            "Twitter": "rustydesu_",
+            "YouTube": null
          },
          {
             "Name": "Skeelie",
@@ -565,6 +583,15 @@
             "YouTube": "UCiWvjxSxDcxc9-fzjPRpSQg"
          },
          {
+            "Name": "Fnyt",
+            "ProfilePicture": "fnyt.png",
+            "Discord": "184540171859918848",
+            "GitHub": null,
+            "Twitch": "fnyt",
+            "Twitter": null,
+            "YouTube": "UCytAXG2a4zJKbmWgorJUEJg"
+         },
+         {
             "Name": "fvrwvrd",
             "ProfilePicture": "fvrwvrd.png",
             "Discord": "863525580079235132",
@@ -599,6 +626,15 @@
             "Twitch": "joshabi",
             "Twitter": "Joshabi",
             "YouTube": "UCjyA_3l0sPM8uFAvWPSYzqA"
+         },
+         {
+            "Name": "Klondike",
+            "ProfilePicture": "Klondike.jpg",
+            "Discord": "614595563349999745",
+            "GitHub": null,
+            "Twitch": "klondikevr",
+            "Twitter": "KlondlkeVR",
+            "YouTube": "UCTrTdEPmSwy28fq8q5eXtgw"
          },
          {
             "Name": "LemoNade",
