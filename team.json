@@ -773,6 +773,71 @@
             "Twitter": "FernyxTweets",
             "YouTube": null
          }
+      ],
+      "CCT": [
+         {
+            "Name": "BigOlDumplin",
+            "ProfilePicture": "BigOlDumplin.png",
+            "Discord": "579018678280912906",
+            "GitHub": null,
+            "Twitch": "bigoldumplin",
+            "Twitter": null,
+            "YouTube": null
+         },
+         {
+            "Name": "Mr_bjo",
+            "ProfilePicture": "bjo.png",
+            "Discord": "371002487219683348",
+            "GitHub": null,
+            "Twitch": "mr_bjo",
+            "Twitter": "Mr_bjoVR",
+            "YouTube": "UCqhvUD5TNsyZ3lpa-wJmaew"
+         },
+         {
+            "Name": "olliemine",
+            "ProfilePicture": "Olliemine.png",
+            "Discord": "733489965568360539",
+            "GitHub": "olliemine",
+            "Twitch": "olliemine",
+            "Twitter": "olliemine_",
+            "YouTube": "UCnObcp66N8jUwqFFf-Cd3rA"
+         },
+         {
+            "Name": "RaccoonVR",
+            "ProfilePicture": "RaccoonVR.png",
+            "Discord": "693932079678750720",
+            "GitHub": "raccoonvr321",
+            "Twitch": "raccoonvr",
+            "Twitter": "VrRaccoon",
+            "YouTube": "UC72V9yWF-3ZtZz-WbXoeZAQ"
+         },
+         {
+            "Name": "Spoekle",
+            "ProfilePicture": "spoekle.png",
+            "Discord": "435825557087977492",
+            "GitHub": "Spoekle",
+            "Twitch": "spoekle",
+            "Twitter": null,
+            "YouTube": "UCAAbZeiuPwsbKqiD8QBubxw"
+         },
+         {
+            "Name": "voltage",
+            "ProfilePicture": "voltage.jpg",
+            "Discord": "842675585477246986",
+            "GitHub": null,
+            "Twitch": "voltageo",
+            "Twitter": "Voltage4536",
+            "YouTube": "UCZkkPihpJqKcqSeSwUCNBOg"
+         },
+         {
+            "Name": "yabje",
+            "ProfilePicture": "yabje.png",
+            "Discord": "397816897963294740",
+            "GitHub": null,
+            "Twitch": "yabje0_0",
+            "Twitter": "yabje_",
+            "YouTube": "UC8FD96U42n_yXUuJe4DMR6g"
+         }
       ]
    }
 }
