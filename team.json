@@ -374,6 +374,15 @@
             "YouTube": null
          },
          {
+            "Name": "Nina Vila",
+            "ProfilePicture": "Vila.jpg",
+            "Discord": "348917611150704641",
+            "GitHub": null,
+            "Twitch": "vilawess",
+            "Twitter": "Vilawes",
+            "YouTube": null
+         },
+         {
             "Name": "Olaf",
             "ProfilePicture": "olaf.jpg",
             "Discord": "341971173116084224",
@@ -399,15 +408,6 @@
             "Twitch": "qwasyx3000",
             "Twitter": null,
             "YouTube": null
-         },
-         {
-            "Name": "RetrX",
-            "ProfilePicture": "Retrx.png",
-            "Discord": "968922688418644078",
-            "GitHub": null,
-            "Twitch": "retrx2",
-            "Twitter": "RetrX14",
-            "YouTube": "UCLpkASoyFtOmkIx9kufhQ1A"
          },
          {
             "Name": "RocKz",
@@ -479,15 +479,6 @@
             "GitHub": null,
             "Twitch": "uninstaller_",
             "Twitter": "Uninstaller3",
-            "YouTube": null
-         },
-         {
-            "Name": "Nina Vila",
-            "ProfilePicture": "Vila.jpg",
-            "Discord": "348917611150704641",
-            "GitHub": null,
-            "Twitch": "vilawess",
-            "Twitter": "Vilawes",
             "YouTube": null
          },
          {
@@ -682,24 +673,6 @@
             "YouTube": "UCuwa1LSEXKWLXkp_kip9dzw"
          },
          {
-            "Name": "riasuh",
-            "ProfilePicture": "riasuh.png",
-            "Discord": "864941476013670410",
-            "GitHub": "riasuh",
-            "Twitch": "riasuh",
-            "Twitter": "riasuh_",
-            "YouTube": "UCLVjXU4UxoHyF_RrnJMxSxg"
-         },
-         {
-            "Name": "Rocker",
-            "ProfilePicture": "rocker.gif",
-            "Discord": "132449590527000576",
-            "GitHub": null,
-            "Twitch": "rocker1904",
-            "Twitter": "rocker1904",
-            "YouTube": "UCoDuGRzPzf2-EbtaaKhRoLw"
-         },
-         {
             "Name": "Purp1e",
             "ProfilePicture": "purp1e.jpg",
             "Discord": "537745391412838411",
@@ -716,6 +689,24 @@
             "Twitch": "qwasyx3000",
             "Twitter": null,
             "YouTube": null
+         },
+         {
+            "Name": "riasuh",
+            "ProfilePicture": "riasuh.png",
+            "Discord": "864941476013670410",
+            "GitHub": "riasuh",
+            "Twitch": "riasuh",
+            "Twitter": "riasuh_",
+            "YouTube": "UCLVjXU4UxoHyF_RrnJMxSxg"
+         },
+         {
+            "Name": "Rocker",
+            "ProfilePicture": "rocker.gif",
+            "Discord": "132449590527000576",
+            "GitHub": null,
+            "Twitch": "rocker1904",
+            "Twitter": "rocker1904",
+            "YouTube": "UCoDuGRzPzf2-EbtaaKhRoLw"
          },
          {
             "Name": "Timbo",
