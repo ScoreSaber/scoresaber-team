@@ -339,7 +339,7 @@
          },
          {
             "Name": "Hener",
-            "ProfilePicture": "Hener.png",
+            "ProfilePicture": "hener.png",
             "Discord": "339551469026017282",
             "GitHub": null,
             "Twitch": "hener_vr",
@@ -363,6 +363,15 @@
             "Twitch": "jaboooooob",
             "Twitter": "JabobGaming",
             "YouTube": "UCV1IPe4PueopMUbQdRcj3gg"
+         },
+         {
+            "Name": "Komeijisan051",
+            "ProfilePicture": "Komeiji.png",
+            "Discord": "682402385829691393",
+            "GitHub": null,
+            "Twitch": "komeiji_san051",
+            "Twitter": "s_yosshy",
+            "YouTube": null
          },
          {
             "Name": "Marsh",
@@ -743,6 +752,15 @@
             "Twitch": "tseska_",
             "Twitter": null,
             "YouTube": null
+         },
+         {
+            "Name": "Voytech",
+            "ProfilePicture": "Voytech.png",
+            "Discord": "442724808623390722",
+            "GitHub": null,
+            "Twitch": "mr_voytech",
+            "Twitter": "VoyTech14",
+            "YouTube": "UCvKwdnbqL8Fb179xqSUAZkw"
          }
       ],
       "CAT": [
