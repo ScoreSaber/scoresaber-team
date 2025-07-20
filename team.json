@@ -201,13 +201,13 @@
             "YouTube": "UCdG9zS8jVcQIKl7plwWXUkg"
          },
          {
-            "Name": "Skeelie",
-            "ProfilePicture": "skeelie.png",
-            "Discord": "119467937928052748",
-            "GitHub": null,
-            "Twitch": "skeelie",
-            "Twitter": null,
-            "YouTube": "UCZYZ_PJ3rntUgWHCPfJYW1Q"
+            "Name": "Trolav",
+            "ProfilePicture": "trolav.gif",
+            "Discord": "200715099323891716",
+            "GitHub": "DonTrolav",
+            "Twitch": "trolav",
+            "Twitter": "trolav1",
+            "YouTube": null
          },
          {
             "Name": "Uninstaller",
@@ -444,15 +444,6 @@
             "Twitch": "shrado",
             "Twitter": "shrado115",
             "YouTube": "UCJteEKhPaaCVBe08q3f368A"
-         },
-         {
-            "Name": "Skeelie",
-            "ProfilePicture": "skeelie.png",
-            "Discord": "119467937928052748",
-            "GitHub": null,
-            "Twitch": "skeelie",
-            "Twitter": null,
-            "YouTube": "UCZYZ_PJ3rntUgWHCPfJYW1Q"
          },
          {
             "Name": "Slayx",
@@ -794,6 +785,15 @@
       ],
       "CCT": [
          {
+            "Name": "Andrea",
+            "ProfilePicture": "andrea.png",
+            "Discord": "634605722461798410",
+            "GitHub": null,
+            "Twitch": "andreahikono",
+            "Twitter": null,
+            "YouTube": "UCGDtvG_pGdJZyXSgoLMat8g"
+         },
+         {
             "Name": "BigOlDumplin",
             "ProfilePicture": "bigoldumplin.png",
             "Discord": "579018678280912906",
@@ -803,6 +803,15 @@
             "YouTube": null
          },
          {
+            "Name": "Bitz",
+            "ProfilePicture": "bitz.png",
+            "Discord": "172410617066422273",
+            "GitHub": null,
+            "Twitch": "gbitz",
+            "Twitter": "gamebitz",
+            "YouTube": "UC7T1uUHfocD9ADApYecBLvQ"
+         },
+         {
             "Name": "byhemechi",
             "ProfilePicture": "byhemechi.png",
             "Discord": "331280652320112641",
@@ -810,6 +819,15 @@
             "Twitch": "byhemechi",
             "Twitter": "byhemechi",
             "YouTube": "UCBUYiHKQpEa12CKu-Gx3U9g"
+         },
+         {
+            "Name": "Miljon",
+            "ProfilePicture": "miljon.png",
+            "Discord": "285736449620574209",
+            "GitHub": null,
+            "Twitch": "miljon",
+            "Twitter": "MiljonBS",
+            "YouTube": "UCLXFMM3jiDojMfVllNUEbBg"
          },
          {
             "Name": "Mr_bjo",
